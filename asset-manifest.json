@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/yrfirstrep.github.io/static/css/main.f7342f89.css",
+    "main.js": "/yrfirstrep.github.io/static/js/main.3bab27f1.js",
+    "static/js/787.3c654a21.chunk.js": "/yrfirstrep.github.io/static/js/787.3c654a21.chunk.js",
+    "static/media/banner.png": "/yrfirstrep.github.io/static/media/banner.bde08a648e90ecaa189b.png",
+    "index.html": "/yrfirstrep.github.io/index.html",
+    "main.f7342f89.css.map": "/yrfirstrep.github.io/static/css/main.f7342f89.css.map",
+    "main.3bab27f1.js.map": "/yrfirstrep.github.io/static/js/main.3bab27f1.js.map",
+    "787.3c654a21.chunk.js.map": "/yrfirstrep.github.io/static/js/787.3c654a21.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7342f89.css",
+    "static/js/main.3bab27f1.js"
+  ]
+}
